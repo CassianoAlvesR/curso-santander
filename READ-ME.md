@@ -3,3 +3,5 @@
 ## Teste: Gravando alterações no repositorio
 
 ## Alteracao para uso do comando diff
+
+## Salvando alterações no Git, aula com comandos 'git log' e 'git restore'
