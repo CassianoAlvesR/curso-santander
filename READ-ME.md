@@ -9,3 +9,9 @@
 ## git push and git pull
 
 ## git fetch
+
+## git branch nomedabranch (comando criar nova branch)
+
+## git checkout nomedabranch (trocar branch)
+
+## git log --oneline --decorate
